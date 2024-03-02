@@ -1,4 +1,4 @@
-module sumApp
+module example.com/example
 
 go 1.22.0
 
