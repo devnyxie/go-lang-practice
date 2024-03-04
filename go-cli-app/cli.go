@@ -143,7 +143,7 @@ func askPages(theme *Theme) error {
 		//modify page
 		// 1. Del page
 		// 2. Edit page's name
-		// 3. Del/Add page's components
+		// 3. Del/Add page's components     ---  Refresh the promptUI Select with new config once we press [enter] on one prompt and add [x] or [ ] instead.
 		// so we have 3 buttons.
 	}
 	//to-do
